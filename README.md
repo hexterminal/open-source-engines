@@ -93,6 +93,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 ## JavaScript
 
+- **[Ct.js](https://comigo.itch.io/ct)** - An easy-to-use simple yet powerful open-source 2D game engine powered by javascript.
+
 - **[Phaser](https://phaser.io)** - A fast, free and fun open source framework for **Canvas** ans **WebGL** powered browser games. [[source]](https://github.com/photonstorm/phaser)
 
 - **[Three.js](https://threejs.org/)** - An easy-to-use, lightweight, cross-browser, general-purpose 3D library. [[source]](https://github.com/mrdoob/three.js)
@@ -116,6 +118,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Pygame](https://www.pygame.org)** - A free and open-source cross-platform library for the development of multimedia applications like video games using Python. [[source]](https://github.com/pygame/pygame)
 
 - **[Pyxel](https://www.pyxelstudio.net)** - A retro game engine for Python. [[source]](https://github.com/kitao/pyxel)
+
+- **[UPBGE](https://kitsuystudio.itch.io/upbge-026)** - A free and open-source Windows only game making software integrated with Blender using Python.
 
 ## Rust
 
